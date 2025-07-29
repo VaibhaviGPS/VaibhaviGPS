@@ -1,66 +1,60 @@
-# 🌐 VaibhaviGPS – India’s Most Futuristic GPS Tracking Website
+# 🌐 VaibhaviGPS – India's Most Trusted GPS Tracking Company
 
-Welcome to the official repository of **VaibhaviGPS** — a next-gen GPS tracking service provider from **Guna, Madhya Pradesh, India 🇮🇳**.
-
----
-
-## 🚀 What is VaibhaviGPS?
-
-VaibhaviGPS is a powerful and beautifully designed GPS tracking platform offering real-time tracking for:
-
-- 🚗 Personal Vehicles  
-- 🚌 School Buses  
-- 🚛 Fleets & Businesses  
-
-With multiple software options including:
-
-- **Realiable** – A general-purpose tracking platform  
-- **SchoolQlick** – Specially designed for school transport safety  
-- **MultiTrack** – For personal and business tracking needs
+Welcome to the official GitHub repository of **VaibhaviGPS**, a powerful and innovative GPS tracking solution built with pure **HTML, CSS, and JavaScript**.  
+We are located in **Guna, Madhya Pradesh**, and we proudly serve customers across India with our modern tracking software and dealer network.
 
 ---
 
-## 💡 Key Features
+## 🚀 What We Offer
 
-✅ Real-time location tracking  
-✅ Animated and futuristic web design  
-✅ Parent, Driver & Admin apps with live demo login  
-✅ Secure and powerful HTML/CSS frontend  
-✅ Hosted via GitHub Pages with free HTTPS  
-✅ Easy-to-use, fast-loading, and highly responsive
-
----
-
-## 🛠️ Tech Used
-
-- HTML5  
-- CSS3 (custom glowing & animated design)  
-- JavaScript (minimal or future use)  
-- GitHub Pages (free hosting with SSL)
+- 🔍 Real-time GPS Tracking Software
+- 🏫 School Bus Tracking (SchoolQlick)
+- 🚗 Fleet Management & Multi Vehicle Tracking
+- 📱 Android & iOS Support
+- 👨‍💼 Dealer Partnership Program
+- 🌟 Futuristic, Animated, Secure Website Design
 
 ---
 
-## 🔗 Live Website
+## 🖥️ Live Website (Coming Soon)
 
-👉 [https://vaibhavigps.co.in](https://vaibhavigps.co.in) *(will be live soon)*  
-👉 Demo login info also available in app.html
+**🔗 Domain**: [vaibhavigps.co.in](https://vaibhavigps.co.in)
 
----
-
-## 📞 Contact
-
-- 📍 Guna, Madhya Pradesh, India  
-- 📧 vaibhavigps@gmail.com  
-- 📱 +91 8223000051  
+We are hosting this website for free using GitHub Pages. Stay tuned!
 
 ---
 
-> 💬 "Turning motion into magic — one GPS at a time."
+## 🔗 Connect With Us
+
+Follow and support us on our official social media platforms:
+
+- 📘 **Facebook**: [facebook.com/share/15DkVaKjcp](https://www.facebook.com/share/15DkVaKjcp/)
+- 📸 **Instagram**: [instagram.com/vaibhavigps](https://www.instagram.com/vaibhavigps?igsh=aDUxc2twMTNqbDQy)
+- ▶️ **YouTube**: [youtube.com/@VaibhaviGps](https://www.youtube.com/@VaibhaviGps)
 
 ---
 
-## 🧠 Created By
+## 💼 Project Status
 
-**Student Developer**  
-Learning by building magical interfaces from scratch using raw code ✨  
-Follow for more futuristic web projects 🔮
+The website is currently in development.  
+Our focus is on building a highly secure, animated, and modern web interface for our users and dealers.
+
+---
+
+## 🔐 License
+
+This project is **not open-source**.  
+All code, designs, and content are © copyrighted by **VaibhaviGPS**.  
+Unauthorized copying or reuse is strictly prohibited.
+
+---
+
+## 📧 Contact
+
+**Email**: vaibhavigps@gmail.com  
+**Phone**: +91 8223000051  
+**Location**: Guna, Madhya Pradesh, India
+
+---
+
+> Made with 💙 by the VaibhaviGPS team.
